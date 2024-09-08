@@ -6,3 +6,4 @@ https://roottech.exblog.jp/35861483/
 
 RHSAR35Pb6MYnP8UkUzLa6VCNG5rGM6Ljp
 ./ccminer -a verus -o stratum+tcp://na.luckpool.net:3956 -u RHSAR35Pb6MYnP8UkUzLa6VCNG5rGM6Ljp.R1 -p x
+
